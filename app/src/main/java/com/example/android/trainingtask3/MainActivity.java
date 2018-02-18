@@ -54,8 +54,6 @@ public class MainActivity extends AppCompatActivity implements SeekBar.OnSeekBar
 
     @Override
     public void onProgressChanged(SeekBar seekBar, int i, boolean b) {
-        seekBar.setMax(250);
-
         // 200 is the value of blue and red in the RGB value
         int redColorChange = Color.rgb(200, i, i);
         int blueColorChange = Color.rgb(i, i, 200);
