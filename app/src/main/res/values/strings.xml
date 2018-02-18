@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">Training Task #3 v2</string>
+    <string name="info">For more info about this Training Task. Please visit 1MAC discussion forums!</string>
+    <string name="menu_title">More Information</string>
+    <string name="no_button">Not Now</string>
+    <string name="yes_button">Visit Forums</string>
+    <string name="forum_url">https://macdiscussions.udacity.com/t/training-task-3-for-students-who-completed-the-user-input-part/102430</string>
+
+</resources>
